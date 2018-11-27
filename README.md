@@ -11,6 +11,7 @@ Save time with git Alias
 	p = pull  
 	pu= push  
 	a = add  
+	m = merge
 	ci = commit  
 	l = log  
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all  
