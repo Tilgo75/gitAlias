@@ -7,7 +7,9 @@ Save time with git Alias
 [alias]  
 	co = checkout  
 	br = branch  
-	st = status  
+	st = status
+	sta = stash
+	stap = stash pop
 	p = pull  
 	pu= push  
 	a = add  
