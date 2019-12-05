@@ -18,3 +18,5 @@ Save time with git Alias
 	l = log  
 	lola = log --graph --decorate --pretty=oneline --abbrev-commit --all  
 	
+	
+	
